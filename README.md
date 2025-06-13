@@ -389,6 +389,5 @@ mypy utils/
 [![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/username/repo)
 [![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social&label=Fork)](https://github.com/username/repo)
 
-© 2025 TJCADD团队 | 天津大学计算机辅助药物设计实验室
-
+© 2025 2251238朱江宁|CADD 课程设计
 </div> 

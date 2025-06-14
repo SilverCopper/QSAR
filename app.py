@@ -210,8 +210,8 @@ def render_homepage():
             <div style="font-size: 3rem; text-align: center; margin-bottom: 1rem;">🔬</div>
             <div style="color: #667eea; font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; text-align: center;">多模态嵌入提取</div>
             <div style="text-align: center; line-height: 1.6;">
-                RDKit分子指纹、ChemBERTa<br/>
-                SMILES Transformer<br/>
+                RDKit分子指纹<br/>
+                ChemBERTa、SMILES Transformer<br/>
                 多维度分子表示学习
             </div>
         </div>
@@ -224,7 +224,7 @@ def render_homepage():
             <div style="color: #667eea; font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; text-align: center;">实时预测建模</div>
             <div style="text-align: center; line-height: 1.6;">
                 LightGBM、XGBoost、随机森林<br/>
-                训练完成立即预测<br/>
+                多种模型可选择<br/>
                 支持单个和批量预测
             </div>
         </div>
@@ -237,7 +237,7 @@ def render_homepage():
             <div style="text-align: center; line-height: 1.6;">
                 文献摘要智能分析<br/>
                 核心要点自动提炼<br/>
-                中文输出关键信息
+                提升阅读总结效率
             </div>
         </div>
         """, unsafe_allow_html=True)
